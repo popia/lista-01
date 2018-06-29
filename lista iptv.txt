@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.imgur.com/Wl5nvKp.png" group-title="Canais Abertos",SBT
+http://rhagf.co:25461/live/fHKxG8Svo2/EyjX7Xedz4/36.ts
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT Interior SP" tvg-logo="https://i.imgur.com/Wl5nvKp.png" group-title="Canais Abertos",SBT Interior SP
+http://rhagf.co:25461/live/fHKxG8Svo2/EyjX7Xedz4/5048.ts
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RecordTV" tvg-logo="https://i.imgur.com/BpBs3ZF.png" group-title="Canais Abertos",RecordTV
+http://rhagf.co:25461/live/fHKxG8Svo2/EyjX7Xedz4/41.ts
+#EXTINF:-1 tvg-id="RedeTV!" tvg-name="RedeTV!" tvg-logo="https://i.imgur.com/8pIoHeV.png" group-title="Canais Abertos",RedeTV!
+http://rhagf.co:25461/live/fHKxG8Svo2/EyjX7Xedz4/39.ts
