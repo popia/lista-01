@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="SBT">
+    <display-name lang="pt">SBT</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="SBT INTERIOR SP">
+    <display-name lang="pt">SBT INTERIOR SP</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="RECORD TV">
+    <display-name lang="pt">RECORD TV</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Rede TV">
+    <display-name lang="pt">Rede TV</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <programme start="20180629003000 -0300" stop="20180629013000 -0300" channel="SBT">
+    <title lang="pt">The Noite com Danilo Gentili</title>
+    <desc lang="pt">O programa traz muitos entrevistados interessantes e alto índice de piadas por minuto, abordando os fatos mais e menos relevantes do dia(n)</desc>
+    <credits>
+      <director>João Mesquita</director>
+      <actor>Léo Lins</actor>
+      <actor>Murilo Couto</actor>
+      <actor>Juliana Oliveira</actor>
+      <actor>Ultraje a Rigor</actor>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180629013000 -0300" stop="20180629060000 -0300" channel="SBT">
+    <title lang="pt">SBT Notícias</title>
+    <desc lang="pt">SBT Notícias é um telejornal noturno brasileiro, conta com a apresentação de Cassius Zeilmann e João Fernandes(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180629060000 -0300" stop="20180629083000 -0300" channel="SBT">
+    <title lang="pt">Primeiro Impacto</title>
+    <desc lang="pt">Um formato original da emissora americana Univision, o jornal abordará as principais pautas do Brasil e do mundo(n)</desc>
+    <date>2016</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180629083000 -0300" stop="20180629103000 -0300" channel="SBT">
+    <title lang="pt">Mundo Disney</title>
+    <desc lang="pt">O SBT exibe o bloco de programação Mundo Disney, com séries e desenhos animados dos canais Disney Junior e Disney Channel, além de filmes e curtas metragens da Disney(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180629103000 -0300" stop="20180629141500 -0300" channel="SBT">
+    <title lang="pt">Bom Dia &amp; Cia</title>
+    <desc lang="pt">De segunda a sexta, as manhãs do SBT ficam muito mais divertidas com o Bom Diau0026 Cia, um programa que traz os melhores desenhos da televisão brasileira e muitas brincadeiras com o telespectador(n)</desc>
+    <credits>
+      <director>Silvia Abravanel</director>
+      <actor>Ana Julia</actor>
+      <actor>Matheus Ueta</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180629141500 -0300" stop="20180629150000 -0300" channel="SBT">
+    <title lang="pt">Chaves</title>
+    <desc lang="pt">Chaves é um garoto pobre e órfão que mora numa vila, onde também moram as mais variadas figuras que vivem se metendo em confusão(n)</desc>
+    <credits>
+      <director>Roberto Gómez Bolaños</director>
+      <actor>María Antonieta de las Nieves</actor>
+      <actor>Ramón Valdés</actor>
+      <actor>Florinda Meza</actor>
+      <actor>Carlos Villagrán</actor>
+      <actor>Edgar Vivar</actor>
+      <actor>Rubén Aguirre</actor>
+      <actor>Angelines Fernández</actor>
+    </credits>
+    <date>1971</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180629150000 -0300" stop="20180629160000 -0300" channel="SBT">
+    <title lang="pt">Fofocalizando</title>
+    <desc lang="pt">Programa de variedades apresentado por Mamma Bruschetta, Leão Lobo e o Homem do Saco(n)</desc>
+    <date>2016</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180629160000 -0300" stop="20180629170000 -0300" channel="SBT">
+    <title lang="pt">Casos de Família</title>
+    <desc lang="pt">Christina Rocha retrata os mais variados problemas e dramas do cotidiano de pessoas comuns, e mostra opções de como solucioná-los com ajuda de advogados e psicólogos(n)</desc>
+    <credits>
+      <director>Rafael Bello</director>
+      <director>Melissa Ribeiro</director>
+      <director>Raul Garin</director>
+    </credits>
+    <date>2009</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180629170000 -0300" stop="20180629181500 -0300" channel="SBT">
+    <title lang="pt">Coração Indomável</title>
+    <desc lang="pt">Maricruz diz a Joaninha que se encontrará com Otávio na capital depois da operação de Simone(n)</desc>
+    <credits>
+      <director>Nathalie Lartilleux</director>
+      <actor>Ana Brenda Contreras</actor>
+      <actor>Daniel Arenas</actor>
+      <actor>Elizabeth Álvarez</actor>
+      <actor>René Strickler</actor>
+    </credits>
+    <episode-num system="onscreen">S1 E120</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180629181500 -0300" stop="20180629194500 -0300" channel="SBT">
+    <title lang="pt">Amanhã é Para Sempre</title>
+    <desc lang="pt">Aurora conta para Madre Superiora que Santiago não sabe de sua gravidez e diz que talvez ele não acredite quando souber que ela e Camilo tiveram relações(n)</desc>
+    <credits>
+      <actor>Fernando Colunga</actor>
+      <actor>Silvia Navarro</actor>
+      <actor>Lucero</actor>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S1 E95</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180629194500 -0300" stop="20180629203000 -0300" channel="SBT">
+    <title lang="pt">SBT Brasil</title>
+    <desc lang="pt">Os principais fatos do Brasil e do mundo são apresentados aos telespectadores com independência, análise, opinião e isenção, num formato de linguagem visual diferenciada(n)</desc>
+    <credits>
+      <director>Marcelo Parada</director>
+      <actor>Rachel Sheherazade</actor>
+      <actor>Joseval Peixoto</actor>
+    </credits>
+    <date>2005</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180629203000 -0300" stop="20180629213000 -0300" channel="SBT">
+    <title lang="pt">As Aventuras de Poliana</title>
+    <desc lang="pt">Os alunos assistem um filme sobre bullying com objetivo de conscientizar as crianças(n)</desc>
+    <credits>
+      <director>Reynaldo da Costa Boury</director>
+      <actor>Sophia Valverde</actor>
+      <actor>Dalton Vigh</actor>
+      <actor>Milena Toscano</actor>
+      <actor>Larissa Manoela</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">E33</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180629213000 -0300" stop="20180629221500 -0300" channel="SBT">
+    <title lang="pt">Chiquititas</title>
+    <desc lang="pt">Mili, que ainda está cega, grava seu diário de áudio(n)</desc>
+    <credits>
+      <actor>Giovanna Grigio</actor>
+      <actor>Julia Oliver</actor>
+      <actor>Raissa Chaddad</actor>
+      <actor>Cinthia Cruz</actor>
+    </credits>
+    <date>2013</date>
+    <episode-num system="onscreen">S1 E469</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180629221500 -0300" stop="20180629231500 -0300" channel="SBT">
+    <title lang="pt">Programa do Ratinho</title>
+    <desc lang="pt">Ratinho preocupado com as questões da população e com um jornalismo dinâmico, traz as principais notícias do dia. Não perca o Exame de DNA, o Jornal Rational e o Desafio do Ratinho com convidados especiais(n)</desc>
+    <credits>
+      <director>Walter Scaramuzzi</director>
+      <director>Lucimara Parisi</director>
+      <actor>Valentina</actor>
+      <actor>Milene Pavorô Uehara</actor>
+      <actor>Eduardo Mascarenhas</actor>
+      <actor>Marquito</actor>
+      <actor>Faxinildo</actor>
+      <actor>Rodela</actor>
+      <actor>Iran Thieme</actor>
+      <actor>Rhenata Tolksdorf</actor>
+    </credits>
+    <date>2009</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+</tv>
